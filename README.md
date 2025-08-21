@@ -57,5 +57,3 @@ This project was created as a learning exercise to practice DOM manipulation and
 3. Try to reach **21** without going over.  
 4. The game will display messages for win/loss conditions.  
 
-## 📖 Credits  
-- Inspired by [Scrimba JavaScript course](https://scrimba.com/learn-javascript-c0v/~034/s0uua76l8t/head)  
