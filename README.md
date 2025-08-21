@@ -3,7 +3,6 @@
 A simple **Blackjack card game** built with **HTML, CSS, and JavaScript**.  
 This project was created as a learning exercise to practice DOM manipulation and game logic.  
 
-![Blackjack Table](images/table.png)
 
 ## 🚀 Features  
 - Start a new game and draw cards  
